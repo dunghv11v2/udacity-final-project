@@ -1,0 +1,9 @@
+{
+	"name": "dunghv11datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e1ab093-0a16-4795-aed5-c7e08773d072",
+		"tenantId": "f01e930a-b52e-42b1-b70f-a8882b5d043b"
+	}
+}
